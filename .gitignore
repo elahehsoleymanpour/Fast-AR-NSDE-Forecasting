@@ -1,0 +1,14 @@
+# Cache files
+cache/
+__pycache__/
+
+# Python virtual environment
+venv/
+*.env
+#specil files or folders
+results/
+
+results-AApl/
+
+results-SPY
+
